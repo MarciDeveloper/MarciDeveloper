@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MarciDeveloper
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning React Native and Python
 - 💞️ I’m looking to collaborate on Full Stack Projects
 - 📫 How to reach me marcellocaccamo123@gmail.com
 
