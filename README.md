@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MarciDeveloper
-- 👀 I’m interested in Web Development
+- 👀 I’m interested in Web Development and Programming
 - 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on Full Stack Projects
 - 📫 How to reach me marcello.caccamo.dev@gmail.com
