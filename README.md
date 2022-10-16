@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @MarciDeveloper
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning React Native and Python
+- 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on Full Stack Projects
-- 📫 How to reach me marcellocaccamo123@gmail.com
+- 📫 How to reach me marcello.caccamo.dev@gmail.com
 
 <!---
 MarciDeveloper/MarciDeveloper is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
